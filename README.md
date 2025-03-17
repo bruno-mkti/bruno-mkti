@@ -15,6 +15,8 @@
 
 ### 📢 Quer trocar uma ideia?
 #### 🌎 Portfólio: https://bruno-mkti.github.io/web-portfolio-pessoal
+#### 📞 Whats: wa.me/5534991099276
+#### 🗂 Linkedin: https://www.linkedin.com/in/bruno-mkti/
 
 #### Sempre aberto a novas oportunidades e desafios! 🚀
 
