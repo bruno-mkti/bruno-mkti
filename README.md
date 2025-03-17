@@ -4,6 +4,7 @@
 ### 🚀 O que você pode encontrar aqui?
 #### 🔹 Projetos web modernos e otimizados para performance.
 #### 🔹 Automação de processos para marketing digital e atendimento.
+#### 🔹 Análises e dashboards para impulsionar negócios.
 #### 🔹 Experimentos e estudos em tecnologia e inovação.
 
 ### 💡 Tecnologias que utilizo
@@ -17,48 +18,48 @@
 
 #### Sempre aberto a novas oportunidades e desafios! 🚀
 
-### Lista de websites:
-#### web-restaurant
+## Lista de websites:
+### web-restaurant
 https://bruno-mkti.github.io/web-restaurant/
 
-#### web-cryptocoin
+### web-cryptocoin
 https://bruno-mkti.github.io/web-cryptocoin/
 
-#### karma-shop
+### karma-shop
 https://bruno-mkti.github.io/web-karma-shop/
 
-#### web-fast-hamburgueria
+### web-fast-hamburgueria
 https://bruno-mkti.github.io/web-fast-hamburgueria/
 
-#### web-landingPage-food
+### web-landingPage-food
 https://bruno-mkti.github.io/web-landingPage-food/
 
-#### web-reparos-domesticos
+### web-reparos-domesticos
 https://bruno-mkti.github.io/web-reparos-domesticos/
 
-## web-imobiliaria
+### web-imobiliaria
 https://bruno-mkti.github.io/web-imobiliaria/
 
-#### web-food-wagon
+### web-food-wagon
 https://bruno-mkti.github.io/web-food-wagon/
 
-#### web-smartwatch
+### web-smartwatch
 https://bruno-mkti.github.io/web-smartwhatch/
 
-#### web-know-education
+### web-know-education
 https://bruno-mkti.github.io/web-know-education/
 
-#### web-coffee
+### web-coffee
 https://bruno-mkti.github.io/web-coffee/
 
-#### web-karl-shop
+### web-karl-shop
 https://bruno-mkti.github.io/web-karl-shop/
 
-#### web-amado-shop
+### web-amado-shop
 https://bruno-mkti.github.io/web-amado-shop/
 
-#### web-baker
+### web-baker
 https://bruno-mkti.github.io/web-baker/
 
-#### web-hotelier
+### web-hotelier
 https://bruno-mkti.github.io/web-hotelier/
