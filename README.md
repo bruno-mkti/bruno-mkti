@@ -1,7 +1,8 @@
 ## Olá, pessoal 👋
-Eu sou o Bruno
-Trabalho com desenvolvimento web e gestor de tráfego
-Fiquem a votade para ver meus projetos
+
+### Eu sou o Bruno
+### Trabalho com desenvolvimento web e gestor de tráfego
+### Fiquem a votade para ver meus projetos
 
 # Lista de websites:
 ## web-restaurant
