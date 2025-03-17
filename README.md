@@ -21,7 +21,8 @@
 #### 🗂 Linkedin: https://www.linkedin.com/in/bruno-mkti/
 
 ## Lista de websites:
-### [web-restaurant](https://bruno-mkti.github.io/web-restaurant):#### Website desenvolvido para restaurantes
+### [web-restaurant](https://bruno-mkti.github.io/web-restaurant)
+- Website desenvolvido para restaurantes
 
 ### [web-cryptocoin](https://bruno-mkti.github.io/web-cryptocoin)
 - Website desenvolvido para empresas de investimentos
@@ -64,3 +65,10 @@
 
 ### [web-hotelier](https://github.com/bruno-mkti/web-hotelier)
 - Website desenvolvido para hotelarias
+
+## Automações:
+### [bot-whats](https://github.com/bruno-mkti/bot-whats)
+- Robo de atendimento no WhatsApp desenvolvido para empresas
+
+### [bot-binance](https://github.com/bruno-mkti/bot-binance)
+- Robo desenvolvido para compra e venda de criptomoedas
