@@ -1,8 +1,21 @@
-## Olá, pessoal 👋
+# Olá! 👋 Seja bem-vindo ao meu perfil!
+#### Sou Bruno, desenvolvedor web e gestor de tráfego, apaixonado por tecnologia, inovação e estratégias digitais. Tenho experiência em desenvolvimento web, análise de dados, SEO, automação e e-commerce, sempre buscando criar soluções eficientes e escaláveis.
 
-### Eu sou o Bruno
-### Trabalho com desenvolvimento web e gestor de tráfego
-### Fiquem a votade para ver meus projetos
+### 🚀 O que você pode encontrar aqui?
+#### 🔹 Projetos web modernos e otimizados para performance.
+#### 🔹 Automação de processos para marketing digital e atendimento.
+#### 🔹 Experimentos e estudos em tecnologia e inovação.
+
+### 💡 Tecnologias que utilizo
+#### ✔️ Front-end: HTML, CSS, JavaScript
+#### ✔️ Back-end: Node.js
+#### ✔️ Gestão de Tráfego: SEO, Google Ads, Meta Ads
+#### ✔️ Ferramentas: Google Analytics, Tag Manager, WordPress
+
+### 📢 Quer trocar uma ideia?
+#### 🌎 Portfólio: bruno-mkti.github.io/web-portfolio-pessoal
+
+#### Sempre aberto a novas oportunidades e desafios! 🚀
 
 # Lista de websites:
 ## web-restaurant
