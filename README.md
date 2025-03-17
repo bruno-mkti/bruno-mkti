@@ -13,7 +13,7 @@
 #### ✔️ Ferramentas: Google Analytics, Tag Manager, WordPress
 
 ### 📢 Quer trocar uma ideia?
-#### 🌎 Portfólio: bruno-mkti.github.io/web-portfolio-pessoal
+#### 🌎 Portfólio: https://bruno-mkti.github.io/web-portfolio-pessoal
 
 #### Sempre aberto a novas oportunidades e desafios! 🚀
 
