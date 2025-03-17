@@ -37,7 +37,7 @@
 - Landing page desenvolvido para hamburguerias
 
 ### [web-reparos-domesticos](https://bruno-mkti.github.io/web-reparos-domesticos)
-- 
+- Website desenvolvido para autônomos
 
 ### [web-imobiliaria](https://bruno-mkti.github.io/web-imobiliaria)
 - Website desenvolvido para imobiliárias
