@@ -1,7 +1,7 @@
 # Olá! 👋 Seja bem-vindo ao meu perfil!
-#### Sou Bruno, desenvolvedor web e gestor de tráfego, apaixonado por tecnologia, inovação e estratégias digitais. 
-#### Tenho experiência em desenvolvimento web, Análise de dados, SEO, Automação e E-commerce.
-#### Estou sempre buscando me atualizar as últimas tendências digitais e tecnológicas, aperfeiçoando minhas habilidades.
+#### ✔️ Sou Bruno, desenvolvedor web e gestor de tráfego, apaixonado por tecnologia, inovação e estratégias digitais. 
+#### ✔️ Tenho experiência em desenvolvimento web, Análise de dados, SEO, Automação e E-commerce.
+#### ✔️ Estou sempre buscando me atualizar as últimas tendências digitais e tecnológicas, aperfeiçoando minhas habilidades.
 
 ### 🚀 O que você pode encontrar aqui?
 #### 🔹 Projetos web modernos e otimizados para performance.
@@ -19,8 +19,6 @@
 #### 🌎 Portfólio: https://bruno-mkti.github.io/web-portfolio-pessoal
 #### 📞 Whats: https://wa.me/5534991099276
 #### 🗂 Linkedin: https://www.linkedin.com/in/bruno-mkti/
-
-#### Sempre aberto a novas oportunidades e desafios! 🚀
 
 ## Lista de websites:
 ### web-restaurant
