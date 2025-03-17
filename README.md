@@ -1,7 +1,7 @@
 # Olá! 👋 Seja bem-vindo ao meu perfil!
-#### ✔️ Sou Bruno, desenvolvedor web e gestor de tráfego, apaixonado por tecnologia, inovação e estratégias digitais. 
-#### ✔️ Tenho experiência em desenvolvimento web, Análise de dados, SEO, Automação e E-commerce.
-#### ✔️ Estou sempre buscando me atualizar as últimas tendências digitais e tecnológicas, aperfeiçoando minhas habilidades.
+#### 👨‍⚖️ Sou Bruno, desenvolvedor web e gestor de tráfego, apaixonado por tecnologia, inovação e estratégias digitais. 
+#### 👨‍⚖️ Tenho experiência em Desenvolvimento web, Análise de dados, SEO, Automação e E-commerce.
+#### 👨‍⚖️ Estou sempre buscando me atualizar as últimas tendências digitais e tecnológicas, aperfeiçoando minhas habilidades.
 
 ### 🚀 O que você pode encontrar aqui?
 #### 🔹 Projetos web modernos e otimizados para performance.
