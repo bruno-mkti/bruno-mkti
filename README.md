@@ -21,8 +21,7 @@
 #### 🗂 Linkedin: https://www.linkedin.com/in/bruno-mkti/
 
 ## Lista de websites:
-### [web-restaurant](https://bruno-mkti.github.io/web-restaurant)
-- Website desenvolvido para restaurantes
+### [web-restaurant](https://bruno-mkti.github.io/web-restaurant):#### Website desenvolvido para restaurantes
 
 ### [web-cryptocoin](https://bruno-mkti.github.io/web-cryptocoin)
 - Website desenvolvido para empresas de investimentos
