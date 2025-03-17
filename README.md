@@ -21,7 +21,7 @@
 #### 🗂 Linkedin: https://www.linkedin.com/in/bruno-mkti/
 
 ## Lista de websites:
-### web-restaurant
+### [web-restaurant] (https://bruno-mkti.github.io/web-restaurant)
 - https://bruno-mkti.github.io/web-restaurant/
 
 ### web-cryptocoin
@@ -60,8 +60,8 @@
 ### web-amado-shop
 - https://bruno-mkti.github.io/web-amado-shop/
 
-### web-baker
+### [web-baker] (https://bruno-mkti.github.io/web-baker)
 - https://bruno-mkti.github.io/web-baker/
 
-### web-hotelier
+### [web-hotelier](https://github.com/bruno-mkti/web-hotelier)
 - https://bruno-mkti.github.io/web-hotelier/
