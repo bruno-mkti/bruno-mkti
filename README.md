@@ -17,6 +17,8 @@
 #### ✔️ Gestão de Tráfego: SEO, Google Ads, Meta Ads
 #### ✔️ Ferramentas: Google Analytics, Tag Manager, WordPress
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bruno-mkti&size_weight=0.5&count_weight=0.5)
+
 ### 📢 Quer trocar uma ideia?
 #### 🌎 [Acesse meu Portfólio](https://bruno-mkti.github.io/web-portfolio-pessoal)
 #### 📞 [Entre em contato no Whats](https://wa.me/5534991099276)
@@ -75,5 +77,3 @@
 
 ### [bot-binance](https://github.com/bruno-mkti/bot-binance)
 - Robo desenvolvido para compra e venda de criptomoedas
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&size_weight=0.5&count_weight=0.5)
