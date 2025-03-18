@@ -76,4 +76,4 @@
 ### [bot-binance](https://github.com/bruno-mkti/bot-binance)
 - Robo desenvolvido para compra e venda de criptomoedas
 
-![Bruno-mkti GitHub stats](https://github-readme-stats.vercel.app/api?username=bruno-mkti_icons=true&theme=cobalt)
+![Bruno-mkti GitHub stats](https://github-readme-stats.vercel.app/api?username=bruno-mkti&show_icons=true&theme=merko)
