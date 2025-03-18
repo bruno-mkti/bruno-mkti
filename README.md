@@ -15,10 +15,18 @@
 #### ✔️ Gestão de Tráfego: SEO, Google Ads, Meta Ads
 #### ✔️ Ferramentas: Google Analytics, Tag Manager, WordPress
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="100px" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="100px" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="100px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="100px"/>          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg" width="100px"/>          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg" width="100px"/>          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/facebook/facebook-original.svg" width="100px" />
+
 ### 📢 Quer trocar uma ideia?
-#### 🌎 Portfólio: https://bruno-mkti.github.io/web-portfolio-pessoal
-#### 📞 Whats: https://wa.me/5534991099276
-#### 🗂 Linkedin: https://www.linkedin.com/in/bruno-mkti/
+#### 🌎 [Acesse meu Portfólio](https://bruno-mkti.github.io/web-portfolio-pessoal)
+#### 📞 [Entre em contato no Whats](https://wa.me/5534991099276)
+#### 🗂 [Acesse meu Linkedin](https://www.linkedin.com/in/bruno-mkti/)
 
 ## Lista de websites:
 ### [web-restaurant](https://github.com/bruno-mkti/web-restaurant)
