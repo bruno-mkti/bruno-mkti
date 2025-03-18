@@ -4,12 +4,14 @@
 #### 👨🏻‍💻 Estou sempre buscando me atualizar as últimas tendências digitais e tecnológicas, aperfeiçoando minhas habilidades.
 
 ### 🚀 O que você pode encontrar aqui?
+___
 #### 🔹 Projetos web modernos e otimizados para performance.
 #### 🔹 Automação de processos para marketing digital e atendimento.
 #### 🔹 Análises e dashboards para impulsionar negócios.
 #### 🔹 Experimentos e estudos em tecnologia e inovação.
 
 ### 💡 Tecnologias que utilizo
+___
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="100px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="100px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="100px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="100px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg" width="100px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg" width="100px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/facebook/facebook-original.svg" width="100px" />
 
 #### ✔️ Front-end: HTML, CSS, JavaScript
@@ -18,6 +20,7 @@
 #### ✔️ Ferramentas: Google Analytics, Tag Manager, WordPress
 
 ### 📢 Quer trocar uma ideia?
+___
 #### 🌎 [Acesse meu Portfólio](https://bruno-mkti.github.io/web-portfolio-pessoal)
 #### 📞 [Entre em contato no Whats](https://wa.me/5534991099276)
 #### 🗂 [Acesse meu Linkedin](https://www.linkedin.com/in/bruno-mkti/)
