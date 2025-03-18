@@ -1,5 +1,4 @@
 # Olá! 👋 Seja bem-vindo ao meu perfil!
-__
 #### 👨🏻‍💻 Sou Bruno, desenvolvedor web e gestor de tráfego, apaixonado por tecnologia, inovação e estratégias digitais. 
 #### 👨🏻‍💻 Tenho experiência em Desenvolvimento web, Análise de dados, SEO, Automação e E-commerce.
 #### 👨🏻‍💻 Estou sempre buscando me atualizar as últimas tendências digitais e tecnológicas, aperfeiçoando minhas habilidades.
@@ -11,9 +10,7 @@ __
 #### 🔹 Experimentos e estudos em tecnologia e inovação.
 
 ### 💡 Tecnologias que utilizo
-___
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="100px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="100px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="100px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="100px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg" width="100px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg" width="100px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/facebook/facebook-original.svg" width="100px" />
-___
 
 #### ✔️ Front-end: HTML, CSS, JavaScript
 #### ✔️ Back-end: Node.js
@@ -21,13 +18,11 @@ ___
 #### ✔️ Ferramentas: Google Analytics, Tag Manager, WordPress
 
 ### 📢 Quer trocar uma ideia?
-___
 #### 🌎 [Acesse meu Portfólio](https://bruno-mkti.github.io/web-portfolio-pessoal)
 #### 📞 [Entre em contato no Whats](https://wa.me/5534991099276)
 #### 🗂 [Acesse meu Linkedin](https://www.linkedin.com/in/bruno-mkti/)
 
 ## Lista de websites:
-___
 ### [web-restaurant](https://github.com/bruno-mkti/web-restaurant)
 - Website desenvolvido para restaurantes
 
@@ -74,7 +69,6 @@ ___
 - Website desenvolvido para hotelarias
 
 ## Automações:
-___
 ### [bot-whats](https://github.com/bruno-mkti/bot-whats)
 - Robo de atendimento no WhatsApp desenvolvido para empresas
 
