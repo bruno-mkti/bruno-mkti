@@ -68,6 +68,9 @@
 ### [web-hotelier](https://github.com/bruno-mkti/web-hotelier)
 - Website desenvolvido para hotelarias
 
+### [web-airconditioner](https://github.com/bruno-mkti/web-airconditioner.git)
+- Website desenvolvido para serviços de manutenção em ar-condicionados
+
 ## Automações:
 
 ### [bot-whats](https://github.com/bruno-mkti/bot-whats)
@@ -75,3 +78,7 @@
 
 ### [bot-binance](https://github.com/bruno-mkti/bot-binance)
 - Robo desenvolvido para compra e venda de criptomoedas
+
+# Aplicativos
+### [app-easy-car](https://github.com/bruno-mkti/app-easy-car.git)
+- Aplicativo desenvolvido para motoristorista de APP
