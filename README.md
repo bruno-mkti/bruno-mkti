@@ -79,6 +79,6 @@
 ### [bot-binance](https://github.com/bruno-mkti/bot-binance)
 - Robo desenvolvido para compra e venda de criptomoedas
 
-# Aplicativos
+## Aplicativos
 ### [app-easy-car](https://github.com/bruno-mkti/app-easy-car.git)
 - Aplicativo desenvolvido para motoristorista de APP
