@@ -71,6 +71,9 @@
 ### [web-airconditioner](https://github.com/bruno-mkti/web-airconditioner.git)
 - Website desenvolvido para serviços de manutenção em ar-condicionados
 
+### [web-electro](https://github.com/bruno-mkti/web-electro.git)
+- Website desenvolvido para lojas de eletrônicos
+
 ## Automações:
 
 ### [bot-whats](https://github.com/bruno-mkti/bot-whats)
@@ -78,6 +81,9 @@
 
 ### [bot-binance](https://github.com/bruno-mkti/bot-binance)
 - Robo desenvolvido para compra e venda de criptomoedas
+
+### [bot-MetaTrader5](https://github.com/bruno-mkti/bot-MetaTrader5)
+- Robô de automação para compra e venda de ações usando o MetaTrader5
 
 ## Aplicativos:
 ### [app-easy-car](https://github.com/bruno-mkti/app-easy-car.git)
